@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pressStartThing.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press_idle0000" x="0" y="0" width="1183" height="112"/>
+	<SubTexture name="press_selected0000" x="0" y="112" width="1183" height="112"/>
+</TextureAtlas>
